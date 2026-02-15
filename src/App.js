@@ -26,11 +26,7 @@ function App() {
     }
   ];
 
-  const [formData, setFormData] = useState({
-    name: "",
-    sport: "",
-    age: ""
-  });
+
 
   return (
     <div className="container mt-5">
